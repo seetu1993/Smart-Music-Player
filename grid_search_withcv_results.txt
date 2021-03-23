@@ -1,0 +1,41 @@
+
+[{'activationf': 'sigmoid', 'epochs': 1, 'innerlayers': 2}, {'activationf': 'sigmoid', 'epochs': 1, 'innerlayers': 3},
+ {'activationf': 'sigmoid', 'epochs': 1, 'innerlayers': 4}, {'activationf': 'sigmoid', 'epochs': 1, 'innerlayers': 5}, 
+ {'activationf': 'sigmoid', 'epochs': 10, 'innerlayers': 2}, {'activationf': 'sigmoid', 'epochs': 10, 'innerlayers': 3}, 
+
+{'activationf': 'sigmoid', 'epochs': 10, 'innerlayers': 4}, {'activationf': 'sigmoid', 'epochs': 10, 'innerlayers': 5}, 
+{'activationf': 'sigmoid', 'epochs': 20, 'innerlayers': 2}, {'activationf': 'sigmoid', 'epochs': 20, 'innerlayers': 3}, 
+{'activationf': 'sigmoid', 'epochs': 20, 'innerlayers': 4}, {'activationf': 'sigmoid', 'epochs': 20, 'innerlayers': 5}, 
+
+
+{'activationf': 'relu', 'epochs': 1, 'innerlayers': 2}, {'activationf': 'relu', 'epochs': 1, 'innerlayers': 3}, 
+{'activationf': 'relu', 'epochs': 1, 'innerlayers': 4}, {'activationf': 'relu', 'epochs': 1, 'innerlayers': 5}, 
+{'activationf': 'relu', 'epochs': 10, 'innerlayers': 2}, {'activationf': 'relu', 'epochs': 10, 'innerlayers': 3}, 
+
+{'activationf': 'relu', 'epochs': 10, 'innerlayers': 4}, {'activationf': 'relu', 'epochs': 10, 'innerlayers': 5}, 
+{'activationf': 'relu', 'epochs': 20, 'innerlayers': 2}, {'activationf': 'relu', 'epochs': 20, 'innerlayers': 3}, 
+{'activationf': 'relu', 'epochs': 20, 'innerlayers': 4}, {'activationf': 'relu', 'epochs': 20, 'innerlayers': 5}, 
+
+
+{'activationf': 'softmax', 'epochs': 1, 'innerlayers': 2}, {'activationf': 'softmax', 'epochs': 1, 'innerlayers': 3}, 
+{'activationf': 'softmax', 'epochs': 1, 'innerlayers': 4}, {'activationf': 'softmax', 'epochs': 1, 'innerlayers': 5}, 
+{'activationf': 'softmax', 'epochs': 10, 'innerlayers': 2}, {'activationf': 'softmax', 'epochs': 10, 'innerlayers': 3}, 
+
+{'activationf': 'softmax', 'epochs': 10, 'innerlayers': 4}, {'activationf': 'softmax', 'epochs': 10, 'innerlayers': 5}, 
+{'activationf': 'softmax', 'epochs': 20, 'innerlayers': 2}, {'activationf': 'softmax', 'epochs': 20, 'innerlayers': 3}, 
+{'activationf': 'softmax', 'epochs': 20, 'innerlayers': 4}, {'activationf': 'softmax', 'epochs': 20, 'innerlayers': 5}]
+
+
+[0.51564626 0.25442177 0.2244898  0.21496599 0.92244899 0.86938775
+
+ 0.7782313  0.64489796 0.94965986 0.91564626 0.9319728  0.90068028
+
+
+ 0.23401361 0.21088436 0.1537415  0.21496599 0.4489796  0.31292517
+
+ 0.25714286 0.24761905 0.37142857 0.29931972 0.24761905 0.2244898
+
+
+ 0.29523809 0.24081632 0.25442177 0.2462585  0.91020409 0.87210886
+ 
+ 0.81360543 0.71156462 0.94149661 0.93877552 0.90204082 0.89523808]
